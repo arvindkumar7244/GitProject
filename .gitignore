@@ -13,3 +13,6 @@
 .externalNativeBuild
 .cxx
 local.properties
+/app/src/main/java/com/example/android/gitproject/SecretKey.kt
+/app/src/main/java/com/example/android/gitproject/MainActivity.kt
+
